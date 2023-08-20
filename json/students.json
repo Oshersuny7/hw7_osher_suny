@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Omer",
+        "subject":"Full stack server",
+        "score":96,
+        "date_created": {
+            "$date": "2023-08-06T12:12:04.287Z"
+          }
+    },
+    {
+        "name": "Yossi",
+        "subject":"Full stack server",
+        "score":100,
+        "date_created": {
+            "$date": "2023-08-06T12:12:04.287Z"
+          }
+    },
+    {
+        "name": "Nati",
+        "subject":"Full stack server",
+        "score":99,
+        "date_created": {
+            "$date": "2023-08-06T12:12:04.287Z"
+          }
+    },
+    {
+        "name": "Mosh",
+        "subject":"Full stack server",
+        "score":85,
+        "date_created": {
+            "$date": "2023-08-06T12:12:04.287Z"
+          }
+    }
+  ]
